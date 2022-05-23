@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#我自己加的
+note.txt
+Notes.cpp
